@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkPlanding=self.webpackChunkPlanding||[]).push([[178],{2178:(M,o,t)=>{t.r(o),t.d(o,{ContentRoutingModule:()=>d});var u=t(6773),e=t(2754),l=t(8256);const a=[{path:"",component:e.S}];let d=(()=>{class n{}return n.\u0275fac=function(C){return new(C||n)},n.\u0275mod=l.oAB({type:n}),n.\u0275inj=l.cJS({imports:[u.Bz.forChild(a),u.Bz]}),n})()}}]);
